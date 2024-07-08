@@ -1,0 +1,4 @@
+1. git clone https://github.com/Learn-with-Sumit/rnext.git
+2. cd 'Assignment 1 - Smart Grade'
+3. npm i
+4. npm run dev
